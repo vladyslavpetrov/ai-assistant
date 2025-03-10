@@ -1,4 +1,4 @@
-# AI-Powered Data Analysis
+# AI-Powered Data Assistant
 
 ## Setup
 1. Install dependencies: pip install -r requirements.txt
